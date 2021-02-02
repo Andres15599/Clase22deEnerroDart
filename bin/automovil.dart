@@ -1,5 +1,3 @@
-import 'dart:html';
-
 void main(List<String> args) {
   final Coche coche = new Coche();
   coche.caracteristicas();
